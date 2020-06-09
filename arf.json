@@ -12,6 +12,17 @@
           "url": "https://belkins.io"
         }
       ]
+    },
+    {
+      "name": "Node 2",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Belkins.io Site",
+          "type": "url",
+          "url": "https://belkins.io"
+        }
+      ]
     }
   ]
 }
